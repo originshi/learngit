@@ -1,0 +1,156 @@
+.c_c ul{
+	overflow:hidden;
+	
+}
+.c_c ul li{
+	float:left;
+}
+.container_cart{
+	width:100%;
+}
+
+.c_c{
+	margin:50px auto 0;
+	width:1190px;
+}
+.c_head{
+	background:url(../img/cart.gif) 0 0 no-repeat;
+	width:1190px;
+	height:38px;
+	margin-bottom: 10px;
+}
+.c_head  li{
+	float: left;
+	font:13px/38px "微软雅黑";
+	width:154px;
+	text-align: center;
+}
+.c_head  li:first-child{
+	color:white;
+	width:200px;
+}
+.c_head  li:last-child{
+	
+	width:241px;
+}
+.c_body ,.c_body1 {
+	border:1px solid #e6e4e3;
+	border-bottom: none;
+	border-right:none ;
+}
+.c_body li,.c_body1 li{
+	border:1px solid #e6e4e3;
+	
+}
+
+.c_body1 li{
+	height:34px;
+	font:13px/34px "微软雅黑";
+	text-align: center;
+}
+
+.c_body li{
+	height:70px;
+	font:13px/70px "微软雅黑";
+}
+.c_body img{
+	width:70px;
+	height:70px;
+}
+.c_body1{
+	height:34px;
+	background:#f4f4f4;
+	
+}
+.c_body{
+	height:71px;
+	
+	
+}
+.c_body li,.c_body1 li{
+	border: 1px solid ##e6e4e3;
+	border-top:none ;
+	border-left: none;
+	text-align: center;
+}
+.c_body li:first-child,.c_body1 li:first-child{
+	width:70px;
+}
+.c_body li:last-child,.c_body1 li:last-child{
+	width:46px;
+}
+.c_bl1{
+	width:676px;
+	text-align: left;
+}
+.c_bl2{
+	width:113px;
+}
+.c_bl3{
+	width:67px;
+}
+.c_bl4{
+	width:146px;
+}
+.c_bl5{
+	width:64px;
+}
+.c_bl6{
+	width:45px;
+}
+
+.c_bottom{
+	background: #f4f4f4;overflow: hidden;margin-top:10px;width:1190px;height:50px;
+	font:13px/50px "微软雅黑";
+}
+.c_bottom img{
+	margin-top:13px;
+}
+.submit{
+	width:100px;
+	height:40px;
+	display: inline-block;
+	float:right;
+	margin-right:2px;
+	margin-top:5px;
+	font:13px/40px "微软雅黑";
+	color: white;
+}
+.increase{
+	background: url(../img/g_ne.png) center no-repeat;
+	display: block;
+	width: 19px;
+	height:8px;
+	border: 1px solid #e6e4e3;
+	margin-top:14px;
+	
+}
+.c_bl3{
+	position: relative;
+}
+.decrease{
+	background: url(../img/g_pre.png) center no-repeat;
+	display: inline-block;
+	width: 19px;
+	height:8px;
+	margin-top:4px;
+	border: 1px solid #e6e4e3;
+	
+}
+.c_bl3 input{
+	display: inline-block;
+	width: 19px;
+	height:18px;
+}
+.c_bl3 div{
+	width:35px;
+	height:18px;
+	margin-top:10px;
+	display: inline-block;
+	float: right;
+	vertical-align: top;
+   
+}
+.c_bl3 a{
+	display: block;
+}

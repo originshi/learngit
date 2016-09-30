@@ -1,0 +1,252 @@
+@font-face {font-family: 'iconfont';
+    src: url('iconfont.eot'); /* IE9*/
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff') format('woff'), /* chrome、firefox */
+    url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:12px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body,ul,li,p{margin:0;padding:0}
+
+li{list-style: none;}
+a{text-decoration: none;color:#666666}
+a:hover{color:orange}
+img{vertical-align: top;}
+
+
+.top,.content,.foot{
+	width:100%;
+}
+
+.top_index{
+	width:1198px;
+	margin:17px auto;
+	font:15px/54px "微软雅黑";
+}
+.top_index span{
+	float:right;
+	display: inline-block;
+	height:54px;
+}
+.top_index .t_i_s{
+	margin:0 16px 0 19px;
+	color:orange;
+}
+.top_index .t_i_s a{
+
+	color:orange;
+}
+.content_index{
+	margin:0 auto;
+	width:100%;
+	min-width: 1423px;
+	height:630px;
+	background:url(../img/bj.jpg) center no-repeat ;
+	overflow: hidden;
+}
+.c_c{
+	margin:55px auto;
+	width:730px;
+	height:335px;
+	padding:69px 170px 96px 121px;
+	background-color: rgba(255, 255, 255, 0.53);
+      box-shadow: #666 0px 0px 10px;
+	
+}
+.c_cl ul{
+	margin-top:31px;
+	border-right: 2px solid #a5a6ab;
+}
+.c_cl ul li{
+	font:13px/27px "微软雅黑";
+	color:#494a4d;
+	width:328px;
+	height:27px;
+	padding-right: 16px;
+}
+
+.c_cl ul li:first-child{
+	height:40px;
+	font:20px/40px "微软雅黑";
+}
+.c_cl ul .c_cl_li1{
+	font:15px/34px "微软雅黑";
+	height:68px;
+}
+ .c_cl,.c_cr{
+ 	float:left;
+ }
+ .c_cr input{
+ 	display: block;
+ }
+.c_cl ul li:last-child{
+	margin-top:21px;
+	height:17px;
+	font:13px/17px "微软雅黑";
+	
+}
+.c_cl ul li:last-child a{
+	color:orange;
+}
+
+.c_cr{
+	padding-left:110px;
+	
+}
+.c_cr h2{
+	margin: 0 0 24px 0;
+	padding: 0;
+	height:31px;
+	font:22px/31px "微软雅黑";
+	color:#494a4d;
+}
+.c_cr input{
+	width:200px;
+	font:14px/33px "微软雅黑";
+	height:33px;
+	border:1px solid #a9a9a9;
+	color:#dddddd;
+	display: inline-block;
+	padding-left:6px;
+	float:left;
+	
+}
+.c_cr input[type=checkbox]{
+	width:14px;
+	height:14px;
+}
+.c_cr span{
+	height:14px;
+}
+#c_cr_i1{
+	width:77px;
+	
+	margin-left:35px;
+	
+}
+.c_cr .c_cr_input{
+	width:241px;height:35px;
+	background: #ed6301;
+	color:white;
+}
+.c_cr div:after{
+	content:"";
+	height:0;
+	overflow:hidden;
+	clear: both;
+	display: block;
+}
+#c_crss{
+	  margin-left: 5px;
+    color: #ed6301;;
+	font:12px/12px "微软雅黑";
+	height:100px;
+	width:200px;
+	top:11px;
+	display: none;
+}
+#c_cr_s_1{
+	border: 1px solid #a9a9a9;
+	background: url(../img/re_txx.png) center no-repeat;
+}
+/*#c_cr_s_1:hover{
+	border: 1px solid #a9a9a9;
+	background: url(../img/re_touxiang.png) center no-repeat;
+}*/
+#c_cr_s_2{
+	border: 1px solid #a9a9a9;
+	background: url(../img/re_tx.png) center no-repeat;
+}
+#c_cr_s_3{
+	border: 1px solid #a9a9a9;
+	background: url(../img/re_tx.png) center no-repeat;
+}
+/*#c_cr_s_2:hover{
+	background: url(../img/re_suo.png) center no-repeat;
+}*/
+
+
+.frame{
+	display: none;
+	position:absolute;
+	background: rgba(0,0,0,0.5);
+	width:100%;
+	height:100%;
+	left:0;
+	top:0;
+	
+}
+.frame_index{
+	position:absolute;
+	width:300px;
+	height:100px;
+	border-radius: 29px;
+	left:50%;
+	top:50%;
+	background:#ed6301;
+	margin-left:-150px;
+	margin-top:-50px;
+	color:white;
+	font:25px/100px "微软雅黑";
+	text-align: center;
+}
+.frame_index span{
+	font:15px/100px "微软雅黑";
+	color:#E5E5E5;
+	position:absolute;
+	left:91px;
+	top:30px;
+}
+.frame1{
+	display: none;
+	position:absolute;
+	background: rgba(0,0,0,0.5);
+	width:100%;
+	height:100%;
+	left:0;
+	top:0;
+	
+}
+.frame1_index{
+	position:absolute;
+	width:300px;
+	height:100px;
+	border-radius: 29px;
+	left:50%;
+	top:50%;
+	background:#ed6301;
+	margin-left:-150px;
+	margin-top:-50px;
+	color:white;
+	font:25px/100px "微软雅黑";
+	text-align: center;
+}
+.frame1_index span{
+	font:15px/100px "微软雅黑";
+	color:#E5E5E5;
+	position:absolute;
+	left:91px;
+	top:30px;
+}
+
+
+.foot{
+	width:100%;
+	background:#494a4d;
+	padding-top:21px;
+
+}
+.foot_index{
+	text-align: center;
+	font:11px/28px "微软雅黑";
+	color:white;
+	
+	height:257px;
+}

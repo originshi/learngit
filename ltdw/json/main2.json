@@ -1,0 +1,35 @@
+[{
+   "product":"T1 12R22.5",
+   "content":"省油、耐磨、散热好",
+   "price":"￥1390.00",
+   "img":"img/main11.png"
+
+},
+{
+   "product":"T3 12R22.5",
+   "content":"抗偏磨、驱动力强、防侧滑",
+   "price":"￥1340.00",
+   "img":"img/main12.png"
+
+},
+{
+   "product":"7.50R16",
+   "content":"牵引力好、抗偏磨、耐爆破",
+   "price":"￥535.00",
+   "img":"img/main13.png"
+
+},
+{
+   "product":"8.25R16",
+   "content":"牵引力好、抗偏磨、耐爆破",
+   "price":"￥635.00",
+   "img":"img/main14.png"
+
+},
+{
+   "product":"8.25R20",
+   "content":"牵引力好、抗偏磨、耐爆破好",
+   "price":"￥775.00",
+   "img":"img/main15.png"
+
+}]

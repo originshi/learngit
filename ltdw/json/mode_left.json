@@ -1,0 +1,72 @@
+[
+	{
+		"name": "真空轮胎",
+		"typeImg": "img/cate1_icon1.png",
+		"typeImghover":"轮胎大王/img/cate1_icon2.png",
+		"classify": ["T1", "T2", "T3", "T5", "T6", "T7", "T8", "T9"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["12R22.5", "13R22.5", "315/80R22.5"]	
+					}]
+	},{
+		"name": "中长途轮胎",
+		"typeImg": "img/cate2_icon1.png",
+		"typeImghover":"轮胎大王/img/cate2_icon2.png",
+		"classify": ["12R22.5", "12.00R20"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["6.50R16", "7.50R16", "8.25R16", "8.25R20", "9.00R20", "12.00R20", "12R22.5"]			
+					},{
+						"name": "轮胎配件",
+						"classify": ["内胎", "垫带"]
+					}]
+	},{
+		"name": "中短途轮胎",
+		"typeImg": "img/cate3_icon1.png",
+		"typeImghover":"../img/cate3_icon2.png",
+		"classify": ["12.00R20"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["7.00R16", "7.50R16", "8.25R16", "8.25R20", "9.00R20", "10.00R20", "11.00R20", "12.00R20"]			
+					},{
+						"name": "轮胎配件",
+						"classify": ["内胎", "垫带"]
+					}]
+	},{
+		"name": "矿山轮胎",
+		"typeImg": "img/cate4_icon1.png",
+		"typeImghover":"../img/cate4_icon2.png",
+		"classify": ["11.00R20", "12.00R20"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["7.50R16", "8.25R16", "8.25R20", "11.00R20", "12.00R20"]			
+					},{
+						"name": "轮胎配件",
+						"classify": ["内胎", "垫带"]
+					}]
+	},{
+		"name": "工程轮胎",
+		"typeImg": "img/cate5_icon1.png",
+		"typeImghover":"../img/cate5_icon2.png",
+		"classify": ["23.525", "17.5R25"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["13.00R25", "14.00R25", "17.5-25", "17.5R25", "23.5-25", "23.5R25"]			
+					},{
+						"name": "轮胎配件",
+						"classify": ["内胎", "垫带"]
+					}]
+	},{
+		"name": "隧道轮胎",
+		"typeImg": "img/cate6_icon1.png",
+		"typeImghover":"../img/cate6_icon2.png",
+		"classify": ["12.00R20"],
+		"content": [{
+						"name": "规格型号",
+						"classify": ["12.00R20"]			
+					},{
+						"name": "轮胎配件",
+						"classify": ["内胎", "垫带"]
+					}]
+	}
+]
